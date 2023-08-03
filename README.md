@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emranzz&label=Profile%20views&color=0e75b6&style=flat" alt="emranzz" /> </p>
 
-- 🔭 I’m currently working on [FLAPPY BIRD](https://github.com/EmranZZ/FLAPPY-BIRD-java)
+- 🔭 I’m currently working on to LEARN SOMETHING
 
 - 🌱 I’m currently learning **STL, Graph & Algorithm, JAVA**
 
-- 💬 Ask me about **any Organizing Skills**
+- 💬 Ask me anything about **to improve Organizing Skills**
 
 - 📫 How to reach me **emran40@student.sust.edu**
 
-- ⚡ Fun fact **Life goes...**
+- ⚡ Fun fact **Let's live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
