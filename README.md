@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on to LEARN SOMETHING
 
-- 🌱 I’m currently learning **STL, Graph & Algorithm, JAVA**
+- 🌱 I’m currently learning **STL, Graph & Algorithm, JAVA, Flutter**
 
 - 💬 Ask me anything about **to improve Organizing Skills**
 
