@@ -1,4 +1,4 @@
-![logo](https://github.com/EmranZZ/EmranZZ/blob/main/JaflongTour.jpg) 
+![logo](https://github.com/EmranZZ/EmranZZ/blob/main/pic.jpg) 
 <h1 align="center">Hi 👋, I'm EMRAN AHMED EMON</h1>
 <h3 align="center">An undergrade Student in Software Engineering</h3>
 
