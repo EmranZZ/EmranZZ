@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm EMRAN AHMED EMON</h1>
-<h3 align="center">An undergrade Student in Software Engineering</h3>
+<h3 align="center">An undergraduate student in Software Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emranzz&label=Profile%20views&color=0e75b6&style=flat" alt="emranzz" /> </p>
 
-- 🔭 I’m currently working on to LEARN SOMETHING
+- 🔭 A learner, An Explorer
 
-- 🌱 I’m currently learning **STL, Graph & Algorithm, JAVA, Flutter**
-
-- 💬 Ask me anything about **to improve Organizing Skills**
-
+- 🌱 Exploring **OOP | JAVA | C++ | SQL | Python | JavaScript | AI | ML | Selenium**
+- ⚡ Excellence **Problem Solving | Leadership | Effective Communication | Team Collaboration | Goal-Oriented | Challenge Resolution | Team Lead | Public Speaking | Event Coordination | Creative Planning**
 - 📫 How to reach me **emran40@student.sust.edu**
-
-- ⚡ Fun fact **Let's live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mremran01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mremran01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emranzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="emranzz" height="30" width="40" /></a>
 <a href="https://fb.com/mr.emran100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.emran100" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/playmakerzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="playmakerzz" height="30" width="40" /></a>
 </p>
